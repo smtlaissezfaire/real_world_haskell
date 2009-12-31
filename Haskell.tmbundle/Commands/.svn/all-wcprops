@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/10646/trunk/Bundles/Haskell.tmbundle/Commands
+END
+Load in GHCi.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10646/trunk/Bundles/Haskell.tmbundle/Commands/Load%20in%20GHCi.tmCommand
+END
+Show Type.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/4369/trunk/Bundles/Haskell.tmbundle/Commands/Show%20Type.tmCommand
+END
+Lookup on Hoogle.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/8214/trunk/Bundles/Haskell.tmbundle/Commands/Lookup%20on%20Hoogle.tmCommand
+END
+Infix Function Call from Selection : Word.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/5920/trunk/Bundles/Haskell.tmbundle/Commands/Infix%20Function%20Call%20from%20Selection%20:%20Word.tmCommand
+END
+Run.plist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4369/trunk/Bundles/Haskell.tmbundle/Commands/Run.plist
+END
